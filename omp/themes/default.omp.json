@@ -53,7 +53,7 @@
         {
           "foreground": "#CB4B16",
           "style": "plain",
-          "template": "{{ reason .Code }} ",
+          "template": " {{ reason .Code }} ",
           "type": "status"
         },
         {
