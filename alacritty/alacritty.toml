@@ -6,5 +6,7 @@
   opacity = 0.8
   dynamic_padding = true
 
-[terminal]
-  osc52 = "CopyPaste"
+[mouse]
+  bindings = [
+    { mouse = "Middle", action = "PasteSelection" }
+  ]
