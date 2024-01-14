@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "foreground": "#20C997",
+          "foreground": "#CC4B16",
           "style": "plain",
           "template": "[",
           "type": "text"
@@ -13,8 +13,8 @@
         {
           "foreground": "#FFFFFF",
           "style": "plain",
-          "template": "<#14A5AE>{{ .CurrentDate | date .Format }}</> ",
-          "type": "time"
+          "template": "<#CECE04>{{ .UserName }}</><#14A5AE>@</><#4A9207>{{ .HostName }}</> ",
+          "type": "session"
         },
         {
           "foreground": "#0973C0",
@@ -39,13 +39,13 @@
           "type": "git"
         },
         {
-          "foreground": "#20C997",
+          "foreground": "#CC4B16",
           "style": "plain",
           "template": "]",
           "type": "text"
         },
         {
-          "foreground": "#20C997",
+          "foreground": "#CECE04",
           "style": "plain",
           "template": "\uf0e7 ",
           "type": "root"
@@ -57,7 +57,7 @@
           "type": "status"
         },
         {
-          "foreground": "#20C997",
+          "foreground": "#CC4B16",
           "style": "plain",
           "template": "\uf105",
           "type": "text"
