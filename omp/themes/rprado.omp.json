@@ -87,7 +87,7 @@
         {
           "foreground": "p:dark-color",
           "style": "plain",
-          "template": "> ",
+          "template": ">",
           "type": "text"
         }
       ],
