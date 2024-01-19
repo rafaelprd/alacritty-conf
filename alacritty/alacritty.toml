@@ -25,7 +25,7 @@ multiplier = 3
 [font]
 size = 10
   [font.normal] 
-  family = "Hack Nerd Font Mono"
+  family = "JetBrainsMono Nerd Font Mono"
   style = "Bold"
 
   [font.offset]
@@ -384,4 +384,4 @@ log_level = "OFF"
 print_events = false
 
 [shell]
-program = "pwsh"
+program = "bash"

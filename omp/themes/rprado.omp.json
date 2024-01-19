@@ -6,7 +6,8 @@
 	"turquesa": "#00B7B7",
 	"green": "#00C243",
 	"light-green": "#A9D5C4",
-	"orange": "#FF9248"
+	"orange": "#FF9248",
+        "blue": "#0973C0"
   },
   "blocks": [
     {
