@@ -7,7 +7,7 @@
 	"green": "#00C243",
 	"light-green": "#A9D5C4",
 	"orange": "#FF9248",
-        "blue": "#0973C0"
+        "blue": "#7BBEED"
   },
   "blocks": [
     {
@@ -25,7 +25,7 @@
           "type": "os"
         },
         {
-          "foreground": "p:light-green",
+          "foreground": "p:blue",
           "properties": {
             "style": "mixed"
           },
