@@ -19,7 +19,7 @@ opacity = 0.9
   y = 0
 
 [scrolling]
-history = 0
+history = 500
 multiplier = 3
 
 [font]
